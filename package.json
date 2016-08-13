@@ -1,0 +1,26 @@
+{
+  "name": "raycloudcms",
+  "version": "1.0.0",
+  "description": "this is raycloud cms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangoNiki/RayCloudCMS.git"
+  },
+  "keywords": [
+    "raycloud"
+  ],
+  "author": "niki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MangoNiki/RayCloudCMS/issues"
+  },
+  "homepage": "https://github.com/MangoNiki/RayCloudCMS#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
