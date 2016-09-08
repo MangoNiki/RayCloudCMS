@@ -1,1 +1,1 @@
-console.info('name');
+console.info('ok');
